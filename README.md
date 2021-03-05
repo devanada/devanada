@@ -8,17 +8,28 @@
 - 🎵 Metal, Punk, Pop, JPop, Rock, Hip-hop
 - 📫 You can reach me on my personal website, www.devanada.com
 
+<p align="right">
+  <b>Fun fact:</b>
+  <br>
+  Notice how Iron Man looks over at cap when he summoned Mjolnir during Avengers Assemble? 
+  <br>
+  This is because he was knocked out when Cap originally summoned it for the first time.
+  <img align="right" src="https://media1.tenor.com/images/934c669eaad73cf00be56a00c1bc0af5/tenor.gif" alt="Avengers Assemble">
+</p>
+
 My Personal Computer specification:
 - Processor: Ryzen 5 1400
 - Motherboard: Biostar X370GT3
 - Memory: Asgard Leorice 8GB DDR4 2400Mhz
 - VGA: ASUS ROG Strix RX580 8GB DDR5
 - PSU: Cooler Master MWE Bronze V2 650W
-- Storage 1: SSD Toshiba OCZ TR1150 120GB
-- Storage 2: HDD WD 3.5" Caviar Blue 2TB
+- Storage:  
+  - SSD Toshiba OCZ TR1150 120GB
+  - HDD WD 3.5" Caviar Blue 2TB
 - Casing: Cube Gaming Dustin Black
-- Monitor 1: Acer VG240Y
-- Monitor 2: LG Flatron E1600
+- Monitor: 
+  - Acer VG240Y
+  - LG Flatron E1600
 - Keyboard: Vortex Series VX7 Pro Red Switch
 
 <!--
