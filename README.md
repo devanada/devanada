@@ -18,7 +18,7 @@
 </p>
 
 My Personal Computer specification:
-- Processor: Ryzen 5 1400
+- Processor: Ryzen 5 3600
 - Motherboard: Biostar X370GT3
 - Memory: Asgard Leorice 8GB DDR4 2400Mhz
 - VGA: ASUS ROG Strix RX580 8GB DDR5
