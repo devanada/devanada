@@ -31,6 +31,7 @@ My Personal Computer specification:
   - Acer VG240Y
   - LG Flatron E1600
 - Keyboard: Vortex Series VX7 Pro Red Switch
+- Gamepad: DualSense wireless controller
 
 <!--
 **devanada/devanada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
