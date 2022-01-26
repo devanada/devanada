@@ -12,7 +12,7 @@ My Personal Computer specification:
 - Processor: Ryzen 5 3600
 - Motherboard: MSI MPG B550 Gaming Plus
 - Memory: Corsair Vengeance 8x2 DDR4
-- VGA: ASUS ROG Strix RX580 8GB DDR5
+- VGA: MSI GeForce RTX 3060 Ti Gaming X 8GB DDR6 
 - PSU: Cooler Master MWE Bronze V2 650W
 - Storage:  
   - SSD Toshiba OCZ TR1150 120GB
