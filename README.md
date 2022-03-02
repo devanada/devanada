@@ -24,7 +24,6 @@ My Personal Computer specification:
 - Monitor: 
   - Gigabyte G24F-EK 165Hz
   - Acer VG240Y 75Hz
-  - LG Flatron E1600 60Hz
 - Keyboard: Vortex Series VX7 Pro + Outemu Brown Switch
 - Gamepad: DualSense wireless controller
 - Webcam: Logitech C922
