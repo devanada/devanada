@@ -15,7 +15,7 @@ My Personal Computer specification:
 - VGA: MSI GeForce RTX 3060 Ti Gaming X 8GB DDR6 
 - PSU: Cooler Master MWE Bronze V2 650W
 - Storage:  
-  - SSD Toshiba OCZ TR1150 120GB
+  - SSD Addlink S20 1TB
   - HDD WD 3.5" Caviar Blue 2TB
   - MSI SPATIUM M470 PCIe 4.0 NVMe M.2 1TB
 - Casing: Gigabyte Aorus C300 Glass
