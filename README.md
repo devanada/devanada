@@ -24,6 +24,8 @@ My Personal Computer specification:
 - Monitor: 
   - Gigabyte G24F-EK 165Hz
   - Acer VG240Y 75Hz
-- Keyboard: Vortex Series VX7 Pro + Outemu Brown Switch
-- Gamepad: DualSense wireless controller
-- Webcam: Logitech C922
+- Peripheral:
+  - Keyboard: Vortex Series VX7 Pro + Outemu Brown Switch
+  - Gamepad: DualSense wireless controller
+  - Webcam: Logitech C922
+  - Microphone: Tascam TM-80 with Samson MBA38 Boom Arm
