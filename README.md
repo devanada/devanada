@@ -11,7 +11,7 @@
 My Personal Computer specification:
 - Processor: Ryzen 5 3600
 - Motherboard: MSI MPG B550 Gaming Plus
-- Memory: Corsair Vengeance 8x2 DDR4
+- Memory: Corsair Vengeance 8x4 DDR4 2666 MHz
 - VGA: MSI GeForce RTX 3060 Ti Gaming X 8GB DDR6 
 - PSU: Cooler Master MWE Bronze V2 650W
 - Storage:  
@@ -26,6 +26,7 @@ My Personal Computer specification:
   - Acer VG240Y 75Hz
 - Peripheral:
   - Keyboard: Vortex Series VX7 Pro + Outemu Brown Switch
+  - Mouse: Logitech G502 Hero
   - Gamepad: DualSense wireless controller
   - Webcam: Logitech C922
   - Microphone: Tascam TM-80 with Samson MBA38 Boom Arm
