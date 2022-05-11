@@ -9,7 +9,7 @@
 - You can reach me on my personal website, www.devanada.com
 
 My Personal Computer specification:
-- Processor: Ryzen 5 3600
+- Processor: AMD Ryzen 7 5800X
 - Motherboard: MSI MPG B550 Gaming Plus
 - Memory: Corsair Vengeance 8x4 DDR4 2666 MHz
 - VGA: MSI GeForce RTX 3060 Ti Gaming X 8GB DDR6 
