@@ -1,6 +1,6 @@
 ### Hi there, name is Yoga S Devanada, nice to meet ya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <div align="center">
-  <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="200"/><div id="badges">
+  <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="200em"/><div id="badges">
   <div>
     <a href="https://www.linkedin.com/in/devanada/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -118,4 +118,14 @@
       <li>Microphone: Tascam TM-80 with Samson MBA38 Boom Arm</li>
     </ul>
   </ul>
+</div>
+
+---
+
+<h3 align="left">:gear: GitHub Analytics:</h3>
+<div align="center">
+  <a href="https://github.com/devanada">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devanada&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devanada&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </div>
