@@ -1,6 +1,6 @@
 <h3 align="left">Hi there, name is Yoga S Devanada, nice to meet ya</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="200em"/><div id="badges">
+  <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="200em"/>
   <div>
     <a href="https://www.linkedin.com/in/devanada/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -116,6 +116,7 @@
       <li>Gamepad: DualSense wireless controller</li>
       <li>Webcam: Logitech C922</li>
       <li>Microphone: Tascam TM-80 with Samson MBA38 Boom Arm</li>
+      <li>Speaker: Edifier R1700BT</li>
     </ul>
   </ul>
 </div>
