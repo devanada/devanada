@@ -1,4 +1,4 @@
-### Hi there, name is Yoga S Devanada, nice to meet ya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h3 align="left">Hi there, name is Yoga S Devanada, nice to meet ya</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="200em"/><div id="badges">
   <div>
