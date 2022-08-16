@@ -21,8 +21,8 @@
 <div align="left">
   <ul>
     <li>Currently working as Academic Instructor & Frontend Developer using React Native and React.js</li>
-    <li>Love watching movie and series</li>
-    <li>Interest on Computer hardware, assemble and dissamble. PC building is my passion lol</li>
+    <li>Love watching movies and series</li>
+    <li>Interested in Computer hardware (assemble and dissamble). PC building is my passion lol</li>
     <li>Metal, Punk, Pop, JPop, Rock, Hip-hop</li>
     <li>You can reach me on my personal website, www.devanada.com</li>
   </ul>
