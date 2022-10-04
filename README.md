@@ -1,6 +1,6 @@
 <h3 align="left">Hi there, name is Yoga S Devanada, nice to meet ya</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="200em"/>
+  <img src="https://i.imgur.com/GPKodlO_d.webp?maxwidth=760&fidelity=grand" width="600em"/>
   <div>
     <a href="https://www.linkedin.com/in/devanada/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
