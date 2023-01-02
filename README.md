@@ -135,9 +135,9 @@
 
 <h3 align="left">:briefcase: Featured Project:</h3>
 <div align="center">
-  <a href="https://github.com/devanada/cinephile">
+<!--   <a href="https://github.com/devanada/cinephile">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=cinephile&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Cinephile"/>
-  </a>
+  </a> -->
   <a href="https://github.com/devanada/desktop-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=desktop-app&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Desktop App"/>
   </a>
