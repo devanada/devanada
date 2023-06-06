@@ -65,6 +65,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=black" alt="javascript"/> 
   </a> 
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&color=black" alt="flutter"/> 
+  </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&color=black" alt="laravel"/> 
   </a> 
