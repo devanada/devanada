@@ -106,8 +106,8 @@
     <li>Casing fan: Arctic P12 PWM x3</li>
     <li>Monitor:</li>
     <ul>
-      <li>1st | Gigabyte G24F-EK 165Hz</li>
-      <li>2nd | Acer VG240Y 75Hz</li>
+      <li>1st | Lenovo G32qc-30 QHD </li>
+      <li>2nd | Gigabyte G24F-EK FHD</li>
     </ul>
     <li>Peripheral:</li>
     <ul>
