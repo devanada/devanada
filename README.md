@@ -87,6 +87,54 @@
 
 ---
 
+<h3 align="left">:gear: GitHub Analytics:</h3>
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="width: 50%; border: none;">
+      <a href="https://github.com/devanada" style="display: block; height: 150px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=devanada&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
+      </a>
+    </td>
+    <td align="center" style="width: 50%; border: none;">
+      <a href="https://github.com/devanada" style="display: block; height: 150px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanada&layout=compact&langs_count=8&bg_color=000&title_color=fff&text_color=fff" alt="Language Stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="left">:briefcase: Featured Project:</h3>
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="width: 50%; border: none;">
+      <a href="https://github.com/devanada/ipk" style="display: block; height: 150px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=ipk&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="IPK (Iringan Pengantar Koding)" style="max-width: 100%; height: 100%;"/>
+      </a>
+    </td>
+    <td align="center" style="width: 50%; border: none;">
+      <a href="https://github.com/devanada/hipotesa" style="display: block; height: 150px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=hipotesa&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Hipotesa Online Store" style="max-width: 100%; height: 100%;"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="width: 50%; border: none;">
+      <a href="https://github.com/devanada/bookquest" style="display: block; height: 150px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=bookquest&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="BookQuest" style="max-width: 100%; height: 100%;"/>
+      </a>
+    </td>
+    <td align="center" style="width: 50%; border: none;">
+      <a href="https://github.com/devanada/cineverse" style="display: block; height: 150px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=cineverse&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="CineVerse" style="max-width: 100%; height: 100%;"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 <h3 align="left">:desktop_computer: My Personal Computer specification:</h3>
 <div align="left">
   <ul>
@@ -119,40 +167,4 @@
       <li>Speaker: Edifier R1700BT</li>
     </ul>
   </ul>
-</div>
-
----
-
-<h3 align="left">:gear: GitHub Analytics:</h3>
-<div align="center">
-  <a href="https://github.com/devanada">
-    <img src="https://github-readme-stats.vercel.app/api?username=devanada&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
-  </a>
-  <a href="https://github.com/devanada">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanada&layout=compact&langs_count=8&bg_color=000&title_color=fff&text_color=fff" alt="Language Stats"/>
-  </a>
-</div>
-
----
-
-<h3 align="left">:briefcase: Featured Project:</h3>
-<div align="center">
-  <a href="https://github.com/devanada/cinephile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=cinephile&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Cinephile"/>
-  </a>
-  <a href="https://github.com/devanada/desktop-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=desktop-app&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Desktop App"/>
-  </a>
-  <a href="https://github.com/devanada/pokemon-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=pokemon-app&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Pokemon App"/>
-  </a>
-  <a href="https://github.com/devanada/kitchen-sink">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=kitchen-sink&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Kitchen Sink"/>
-  </a>
-  <a href="https://github.com/devanada/kitchen-sink-too">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=kitchen-sink-too&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Kitchen Sink React"/>
-  </a>
-  <a href="https://github.com/devanada/kitchen-sink-next">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=kitchen-sink-next&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Kitchen Sink Next"/>
-  </a>
 </div>
